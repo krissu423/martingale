@@ -1,11 +1,4 @@
 import random
-echo "# martingale" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/krissu423/martingale.git
-git push -u origin main
 
 def play_roulette(starting_money, starting_bet, num_bets):
     money = starting_money

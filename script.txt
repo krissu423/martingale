@@ -28,7 +28,7 @@ def play_roulette(starting_money, starting_bet, num_bets):
 
     print(f"Final money: {money}")
 
-# Example usage
+# variables
 starting_money = int(input("Select the starting amount: "))
 starting_bet = int(input("Select the starting bet: "))
 num_bets = int(input("Select the number of bets: "))

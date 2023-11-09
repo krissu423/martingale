@@ -1,2 +1,3 @@
+A simulation of the Martingale system in python. Starting bet amount, starting money and the weights (probability) for red and black. amount of bets made can all be inputted.
 This script simulates a roulette wheel with 2 0's, but the amount of 0's on the wheel can be changed by editing the weight (probability) for both red and black in the script.
 Change the weight to 48.65% for both red and black for a roulette wheel with one 0. For three 0's change the weight to 46.155%.
